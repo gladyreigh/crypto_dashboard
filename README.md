@@ -57,6 +57,14 @@ cryptocurrency-tracker/
 
 ## Usage
 
+### IMPORTANT
+For the crypto_dashboard.py to work, crypto_tracker.py must be also running on another terminal
+```bash
+python crypto_tracker.py
+venv\Scripts\activate
+streamlit run crypto_dashboard.py
+```
+
 ### 1. Data Collection
 Run the data collector to start gathering cryptocurrency prices:
 ```bash
