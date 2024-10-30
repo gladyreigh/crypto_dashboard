@@ -35,7 +35,13 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. Install required packages:
 ```bash
-pip install requests pandas sqlite3 matplotlib seaborn streamlit plotly
+pip install requests 
+pip install pandas 
+pip install sqlite3 
+pip install matplotlib 
+pip install seaborn 
+pip install streamlit 
+pip install plotly
 ```
 
 ## Project Structure
