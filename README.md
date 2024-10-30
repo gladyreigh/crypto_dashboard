@@ -33,7 +33,7 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-3. Install required packages:
+3. Install required packages (install them one by one manually to avoid errors):
 ```bash
 pip install requests 
 pip install pandas 
